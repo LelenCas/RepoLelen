@@ -43,18 +43,6 @@ Además de las funcionalidades principales, se implementaron los siguientes caso
 - Tecnologías front-end como Bootstrap y JavaScript para la interfaz de usuario.
 - Levantamiento de servidor con Apache Tomcat 9.0.76
 
-## Desarrolladores (Grupo 2)
-
-- María Jesús Fernández Cortez [@JesuFertez](https://github.com/JesuFertez) > [Fork](https://github.com/JesuFertez/Sprint_Java_M6_Grupo_2)
-- Fabián Collao Medina [@FabianCollao](https://github.com/FabianCollao) > [Fork](https://github.com/FabianCollao/Fork_Sprint_M6_Grupo-2)
-- Marlene Elizabeth Castro Pino [@LelenElizabeth](https://github.com/LelenElizabeth) > [Repositorio Original](https://github.com/LelenElizabeth/Sprint_Java_M6_Grupo_2)
-- Omar Sepúlveda [@OmarSepulveda1](https://github.com/OmarSepulveda1) > [Fork](https://github.com/OmarSepulveda1/Sprint_Java_M6_Grupo_2).
-
-## Repositorio
-
-El código fuente del proyecto se encuentra en el repositorio GitHub del grupo: [Sprint_Java_M6_Grupo_2](https://github.com/LelenElizabeth/Sprint_Java_M6_Grupo_2)
-
-
 ## Instrucciones de Uso
 
 1. Clonar el repositorio.
